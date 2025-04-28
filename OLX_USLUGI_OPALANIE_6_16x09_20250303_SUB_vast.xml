@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <VAST version="3.0">
   <Ad id="mm_sample-ad">
     <InLine>
@@ -22,7 +22,7 @@
 
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
-                <![CDATA[https://videoone.pl/panel/klient1/OLX_USLUGI_ROWER_6_16x09_20250303.mp4]]>
+                <![CDATA[https://ads-videoone.github.io/klient1/OLX_USLUGI_OPALANIE_6_16x09_20250303_SUB.mp4]]>
               </MediaFile>
             </MediaFiles>
 
