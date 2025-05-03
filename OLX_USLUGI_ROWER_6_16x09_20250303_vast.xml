@@ -9,7 +9,7 @@
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
-            <Duration>00:00:06</Duration>
+            <Duration>00:02:04</Duration>
 
             <TrackingEvents>
               <Tracking event="complete"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N464420.110317WP.PL/B33117069.412628194;dc_trk_aid=604839371;dc_trk_cid=228618308;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?]]></Tracking>
@@ -22,7 +22,7 @@
 
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="640" height="360" bitrate="500">
-                <![CDATA[https://videoone.pl/panel/klient1/OLX_USLUGI_ROWER_6_16x09_20250303.mp4]]>
+                <![CDATA[https://videoone.pl/panel/klient1/modelki.mp4]]>
               </MediaFile>
             </MediaFiles>
 
