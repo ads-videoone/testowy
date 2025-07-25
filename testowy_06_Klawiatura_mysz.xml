@@ -3,17 +3,17 @@
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
       <AdTitle>testowy_06_Klawiatura_mysz</AdTitle>
-      <Impression><![CDATA[fgdgdgdgd]]></Impression>
+      <Impression><![CDATA[https://impr.pl/6]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
             <Duration>00:00:12</Duration>
             <TrackingEvents>
-              <Tracking event="complete"><![CDATA[fgdgdfgdfgdg]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://compl.pl/6]]></Tracking>
             </TrackingEvents>
             <VideoClicks>
-              <ClickThrough><![CDATA[https://github.com/ads-videoone/testowy/1]]></ClickThrough>
-              <ClickTracking><![CDATA[fgdfgdgdgd]]></ClickTracking>
+              <ClickThrough><![CDATA[https://videoone.adnext.pl/6]]></ClickThrough>
+              <ClickTracking><![CDATA[https://klik.pl/6]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1080" height="1920" bitrate="500">
