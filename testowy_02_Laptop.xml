@@ -3,17 +3,17 @@
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
       <AdTitle>testowy_02_Laptop</AdTitle>
-      <Impression><![CDATA[https://odslon/2]]></Impression>
+      <Impression><![CDATA[dkjfhdksfjdhs]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
             <Duration>00:00:10</Duration>
             <TrackingEvents>
-              <Tracking event="complete"><![CDATA[https://compl/2]]></Tracking>
+              <Tracking event="complete"><![CDATA[dfsdfsdfs]]></Tracking>
             </TrackingEvents>
             <VideoClicks>
-              <ClickThrough><![CDATA[https://url/2]]></ClickThrough>
-              <ClickTracking><![CDATA[https://klik/2]]></ClickTracking>
+              <ClickThrough><![CDATA[kjdhsdjfs]]></ClickThrough>
+              <ClickTracking><![CDATA[dfsdfsfsldhskeu]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1080" height="1920" bitrate="500">
