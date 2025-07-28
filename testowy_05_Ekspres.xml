@@ -3,17 +3,17 @@
     <InLine>
       <AdSystem version="1.0">MM-System</AdSystem>
       <AdTitle>testowy_05_Ekspres</AdTitle>
-      <Impression><![CDATA[https://impr.pl/5]]></Impression>
+      <Impression><![CDATA[https://odslon/5]]></Impression>
       <Creatives>
         <Creative sequence="1" id="video1">
           <Linear>
             <Duration>00:00:10</Duration>
             <TrackingEvents>
-              <Tracking event="complete"><![CDATA[https://compl.pl/5]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://compl/5]]></Tracking>
             </TrackingEvents>
             <VideoClicks>
-              <ClickThrough><![CDATA[https://videoone.adnext.pl/5]]></ClickThrough>
-              <ClickTracking><![CDATA[https://klik.pl/5]]></ClickTracking>
+              <ClickThrough><![CDATA[https://url/5]]></ClickThrough>
+              <ClickTracking><![CDATA[https://klik/5]]></ClickTracking>
             </VideoClicks>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1080" height="1920" bitrate="500">
