@@ -1,0 +1,28 @@
+<VAST version="3.0">
+  <Ad id="mm_sample-ad">
+    <InLine>
+      <AdSystem version="1.0">MM-System</AdSystem>
+      <AdTitle>FOXY_Tornado15s2025</AdTitle>
+      <Impression><![CDATA[0]]></Impression>
+      <Creatives>
+        <Creative sequence="1" id="video1">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="complete"><![CDATA[0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://foxy.eu/pl/produkty/foxy-tornado-reczniki-kuchenne/]]></ClickThrough>
+              <ClickTracking><![CDATA[0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="500">
+                <![CDATA[https://videoone.adnext.pl/panel/foxy/FOXY_Tornado15s2025.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
